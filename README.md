@@ -10,7 +10,7 @@
 
 ✨ Beyond coding, I have a keen interest in Blogging. This diversity of interests informs my approach to problem-solving, allowing me to bring a unique perspective to my work.
 
-🌟 Let's connect! I'm always excited to collaborate on exciting projects, share knowledge, and contribute to the open-source community. Feel free to reach out to me for any software development opportunities or engaging discussions.
+🌟 Let's connect! I'm always excited to collaborate on exciting projects, share knowledge, and contribute to the open-source community. Feel free to reach out to me for any software development opportunities or engaging discussions. You can find me on Linkedin.
 
 Happy coding! 😄
 
